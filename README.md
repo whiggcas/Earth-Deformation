@@ -1,2 +1,2 @@
-# holy_joker
+# solidearth
 Matlab programming in geophysics
