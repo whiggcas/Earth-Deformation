@@ -1,2 +1,2 @@
 # solidearth
-Programming in geophysics
+Matlab programming in geophysics
